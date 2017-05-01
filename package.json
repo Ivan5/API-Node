@@ -1,0 +1,22 @@
+{
+  "name": "api-rest",
+  "version": "1.0.0",
+  "description": "Api Res con node y express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ivan5/API-Node.git"
+  },
+  "author": "Ivan Jaramillo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ivan5/API-Node/issues"
+  },
+  "homepage": "https://github.com/Ivan5/API-Node#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
